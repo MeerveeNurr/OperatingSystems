@@ -1,0 +1,14 @@
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\bin\Debug\net8.0\İşletimSis..exe
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\bin\Debug\net8.0\İşletimSis..deps.json
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\bin\Debug\net8.0\İşletimSis..runtimeconfig.json
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\bin\Debug\net8.0\İşletimSis..dll
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\bin\Debug\net8.0\İşletimSis..pdb
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\İşletimSis..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\İşletimSis..AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\İşletimSis..AssemblyInfo.cs
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\İşletimSis..csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\İşletimSis..dll
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\refint\İşletimSis..dll
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\İşletimSis..pdb
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\İşletimSis..genruntimeconfig.cache
+C:\Users\merve\source\repos\İşletimSis\İşletimSis\obj\Debug\net8.0\ref\İşletimSis..dll
